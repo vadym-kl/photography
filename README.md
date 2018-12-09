@@ -2,4 +2,4 @@
 
 # Summary
 I use this repository to share some of my photography work in high resolution.
-Feel free use Issues section of the repository to provide feebback on my work or leave any other kinds of commnents. 
+Feel free to use Issues section of the repository to provide feebback on my work or leave any other kinds of commnents. 
